@@ -1,6 +1,6 @@
 # Nintendo Switch Games Website
 
-Welcome to the Nintendo Switch Games website! This project showcases information about popular Nintendo Switch games along with details about the developer and external sources.
+Welcome to the Nintendo Switch Games website! This project showcases information about popular Nintendo Switch games.
 
 ## Technologies Used
 
@@ -33,7 +33,7 @@ Welcome to the Nintendo Switch Games website! This project showcases information
 
 # Nintendo Switch Játékok Weboldal
 
-Köszöntünk a Nintendo Switch Játékok weboldalon! Ez a projekt népszerű Nintendo Switch játékokról nyújt információkat, valamint részleteket tartalmaz a fejlesztőről és külső forrásokról.
+Köszöntünk a Nintendo Switch Játékok weboldalon! Ez a projekt népszerű Nintendo Switch játékokról nyújt információkat.
 
 ## Használt Technológiák
 
